@@ -9,7 +9,7 @@
 #' @param source if \code{TRUE} the \emph{"View Source"} link will be displayed
 #'        with the chart. (Default: \code{FALSE}.)
 #' @param editor if \code{TRUE} the \emph{"Open in editor"} link will be
-#'        displayed with the cahrt. (Default: \code{FALSE}.)
+#'        displayed with the chart. (Default: \code{FALSE}.)
 #' @param viewport_width,viewport_height height and width of the overall
 #'        visualziation viewport. This is the overall area reserved for the
 #'        plot. You can leave these \code{NULL} and use \code{\link{cell_size}}
